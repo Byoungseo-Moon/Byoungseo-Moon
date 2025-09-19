@@ -1,7 +1,8 @@
 
 <h1> 👋 안녕하세요. 문병서입니다.</h1>
 
-            
+ <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/634be41f-2dbd-43b3-aea5-ee792aa897c5" />
+        
 
 
 
