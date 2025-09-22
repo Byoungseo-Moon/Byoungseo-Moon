@@ -1,10 +1,14 @@
 
 <h1> 👋 안녕하세요. 문병서입니다.</h1>
 
-<p>인생2막을 생초이자만 풀스택 개발자로 도전합니다.</p> 
- <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/634be41f-2dbd-43b3-aea5-ee792aa897c5" />
+<p>인생2막을 생초이자만 풀스택 개발자로 도전합니다.</p>  
 <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/9734ec42-f43d-4202-b4ff-d438ba4149b4" />
- 
+<img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/08beaee3-6ff7-4431-bb64-faacccd644df" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/50fe9081-70f8-4ee3-a3d5-590298c324f8" />
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/39e4f1e0-3c92-401c-b6b6-6cff66c8888c" />
+<img width="76" height="28" alt="image" src="https://github.com/user-attachments/assets/acd92fc7-6b8b-49f1-a090-73f39f5b389a" />
+<img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/26b4c50a-0d9f-4a65-ab21-a6f40bf20d16" />
+
 
 <hr>
 
