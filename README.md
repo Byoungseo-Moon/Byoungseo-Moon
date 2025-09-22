@@ -26,8 +26,13 @@
 <hr>
 
 <h2>🚩 Projects</h2>
-
-
+<h3>코웨이 코디 고객관리(개인프로젝트)</h3>
+ <ul>
+  <li>코웨이 홈페이지와 유사한 레이아웃 참조</li>
+  <li>고객이 Care 일정 입력</li>
+  <li>메인화면에서 Care일정은 미구현</li>
+  <li>CRUD를 통한 일정관리</li>
+ </ul>
 
 <!--
 **Byoungseo-Moon/Byoungseo-Moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
