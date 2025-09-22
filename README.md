@@ -3,6 +3,8 @@
 
 <p>인생2막을 생초이자만 풀스택 개발자로 도전합니다.</p> 
  <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/634be41f-2dbd-43b3-aea5-ee792aa897c5" />
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/9734ec42-f43d-4202-b4ff-d438ba4149b4" />
+ 
 
 <hr>
 
